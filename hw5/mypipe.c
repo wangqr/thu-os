@@ -118,7 +118,7 @@ static void __exit mypipe_exit(void) {
 module_init(mypipe_init);
 module_exit(mypipe_exit);
 
-MODULE_LICENSE("GPL");
+MODULE_LICENSE("Dual MIT/GPL");
 MODULE_AUTHOR("wangqr");
 MODULE_DESCRIPTION("Simple pipe module [Homework Purpose Only]");
 MODULE_VERSION("1.0.0");
